@@ -33,14 +33,14 @@ body {
 }
 
 .block {
-  margin-top: 13.333vw;
+  margin-top: 5vw;
 }
 
 .block-title {
   color: rgba(240, 240, 240, 0.6);
   line-height: 5.208vw;
   font-size: 4.444vw;
-  margin-bottom: 3.333vw;
+  margin-top: 3vw
 }
 
 
